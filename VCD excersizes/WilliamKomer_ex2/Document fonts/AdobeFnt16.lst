@@ -1,0 +1,156 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HoeflerText-Ornaments
+FamilyName:Hoefler Text
+StyleName:Ornaments
+MenuName:Hoefler Text
+StyleBits:0
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Hoefler Text Ornaments
+WritingScript:Roman
+OutlineFileName:\Hoefler Text Ornaments.ttf
+DataFormat:sfntData
+FileLength:40988
+FileModTime:1440268332
+NameArray:0,Mac,4,Hoefler Text Ornaments
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HoeflerText-Regular
+FamilyName:Hoefler Text
+StyleName:Regular
+MenuName:Hoefler Text
+StyleBits:0
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Hoefler Text
+WritingScript:Roman
+OutlineFileName:\Hoefler Text.ttc
+TTCOffset:40
+DataFormat:sfntData
+FileLength:1633680
+FileModTime:1440268332
+NameArray:0,Mac,4,Hoefler Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HoeflerText-Black
+FamilyName:Hoefler Text
+StyleName:Black
+MenuName:Hoefler Text
+StyleBits:2
+WeightClass:7
+WidthClass:5
+AngleClass:0
+FullName:Hoefler Text Black
+WritingScript:Roman
+OutlineFileName:\Hoefler Text.ttc
+TTCOffset:468
+DataFormat:sfntData
+FileLength:1633680
+FileModTime:1440268332
+NameArray:0,Mac,4,Hoefler Text Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HoeflerText-Italic
+FamilyName:Hoefler Text
+StyleName:Italic
+MenuName:Hoefler Text
+StyleBits:1
+WeightClass:5
+WidthClass:5
+AngleClass:1
+FullName:Hoefler Text Italic
+WritingScript:Roman
+OutlineFileName:\Hoefler Text.ttc
+TTCOffset:896
+DataFormat:sfntData
+FileLength:1633680
+FileModTime:1440268332
+NameArray:0,Mac,4,Hoefler Text Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HoeflerText-BlackItalic
+FamilyName:Hoefler Text
+StyleName:Black Italic
+MenuName:Hoefler Text
+StyleBits:3
+WeightClass:7
+WidthClass:5
+AngleClass:1
+FullName:Hoefler Text Black Italic
+WritingScript:Roman
+OutlineFileName:\Hoefler Text.ttc
+TTCOffset:1324
+DataFormat:sfntData
+FileLength:1633680
+FileModTime:1440268332
+NameArray:0,Mac,4,Hoefler Text Black Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldIt
+FamilyName:Myriad Pro
+StyleName:Bold Italic
+MenuName:Myriad Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99304
+FileModTime:1453463344
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Bold It
+NameArray:0,Mac,4,Myriad Pro Bold Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+MenuName:Myriad Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97072
+FileModTime:1453463344
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
